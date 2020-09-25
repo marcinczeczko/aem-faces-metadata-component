@@ -36,7 +36,7 @@
         String messageClass = facesCount > 0 ? "faces-found" : "faces-notfound";
 %>
    <coral-masonry class="cq-damadmin-admin-childpages foundation-collection">
-        <h3 class="<%= messageClass %>"><%= facesCount %> faces recognized</h3>
+        <h3 class="<%= messageClass %>"><%= facesCount %> face(s) recognized</h3>
 <%   if (facesCount > 0) { %>
 		<div class="facescard cq-damadmin-admin-childpages foundation-collection">
             <canvas class="facesCanvas" id="facesCanvas"
