@@ -56,7 +56,7 @@ In order to verify it, just open the Asset metadata editor. Below the asset prev
 
 ## Configure Processing profiles and detect faces
 
-Follow the blog post [XYZ]() about how to create & deploy custom metadata worker as well as how to configure AEM and how to use it.
+Follow the blog post [How to generate intelligent metadata for AEM as a Cloud service](https://tech.cognifide.com/blog/2020/how-to-generate-intelligent-metadata-aem-cloud/) about how to create & deploy custom metadata worker as well as how to configure AEM and how to use it.
 
 ## Maven settings
 
